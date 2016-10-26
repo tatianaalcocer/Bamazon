@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianaalcocer/Bamazon.git"
+  },
+  "author": "tatianaalcocer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianaalcocer/Bamazon/issues"
+  },
+  "homepage": "https://github.com/tatianaalcocer/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "mysql": "^2.11.1"
+  }
+}
