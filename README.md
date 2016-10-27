@@ -13,7 +13,7 @@ When a manager logs in, they will first see this menu display, where they can ch
 This action will display the full inventory, including stock quantity and department details.
 
 ### View Low Inventory
-![Bamazon1](/screenshots/bamazonmanager-2-lowinventory.png)
+![Bamazon1](/screenshots/bamazonmanager-3-lowinventory)
 
 This action will display all inventory where the stock quantity is less than 5. 
 
